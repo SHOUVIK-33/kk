@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#170b0c"/>
+  <path d="M32 8l9 7H23z" fill="#d4a03c"/>
+  <path d="M19 17h26l-3 6H22z" fill="#c8452c"/>
+  <path d="M17 25h30l-3 6H20z" fill="#d4a03c"/>
+  <path d="M15 33h34l-4 6H19z" fill="#c8452c"/>
+  <text x="32" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="700" fill="#f2e6d4" text-anchor="middle" letter-spacing="1">KK</text>
+</svg>
